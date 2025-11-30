@@ -66,4 +66,6 @@ Mengurangi jumlah alat sebanyak n.
 Menampilkan informasi nama dan jumlah alat kepada terminal.
 
 ## Screenshot Output Program
-<img width="730" height="598" alt="Screenshot 2025-11-29 180045" src="https://github.com/user-attachments/assets/eade4ffb-6445-4ce5-9a24-e55e0ea5207b" />
+<img width="730" height="598" alt="Screenshot 2025-11-29 180045" src= ![Screenshot](docs/screenshoot1.png)
+
+
